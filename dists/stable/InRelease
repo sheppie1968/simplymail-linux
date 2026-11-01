@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 01 Nov 2026 15:55:35 +0000
+Description: SimplyMail for the Linux desktop
+Label: SimplyMail
+Origin: SimplyMail
+Suite: stable
+MD5Sum:
+ bf69caa17bb869c541956e95830e9de5              855 main/binary-amd64/Packages
+ 0638d925804cc26bde0276f8828df8d7              568 main/binary-amd64/Packages.gz
+SHA1:
+ c8bf19bae9523a82404a671618b2239650f24755              855 main/binary-amd64/Packages
+ c850153fb2a5342ff9f7001ce198b4bfad4462be              568 main/binary-amd64/Packages.gz
+SHA256:
+ 15f9ae0c032f1061717e9ca01a3617edec8cb22cbccf34313260249dbfee1ab3              855 main/binary-amd64/Packages
+ 746501a4f055504b822d003df4d9e75c7d3e7b687ec40d03f6a900ea971d4ab7              568 main/binary-amd64/Packages.gz
+SHA512:
+ ac01037e85345fc1f55a00dd7229a9343336521285b212059cdc88514cfcfeeb0f81050a3f0665ae2863cbbc7e23d85112c04ff0f7ec89ccba16cc91631c3926              855 main/binary-amd64/Packages
+ e36abe844f2f8ab405ed2bc7689216468664480260461ad6c693bd8fe5d41d956c0f1daa61b07b4d79aae5a3263a9112d0182016e2309df6e21078b0786a4d80              568 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS+0V4MdG6dN0RdOO4O5VyClZCvwQUCaudg9wAKCRAO5VyClZCv
+wU2JAP0ebWc5STjBcTd6LeLnU9EWFDL/jZoEpxdkQNjVws8rmAEAzU6adrfssLsW
+aq0n1tkdkap+6FrjjREUu9+H3z6VDAc=
+=XgmJ
+-----END PGP SIGNATURE-----
