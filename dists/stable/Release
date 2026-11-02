@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 02 Nov 2026 09:20:33 +0000
+Description: SimplyMail for the Linux desktop
+Label: SimplyMail
+Origin: SimplyMail
+Suite: stable
+MD5Sum:
+ 2001626cf9a6fa201206dbe9d9bb7c52              855 main/binary-amd64/Packages
+ 3bad9ef581ee295fcc38ec70238a0f1d              568 main/binary-amd64/Packages.gz
+SHA1:
+ 8a28e353ffda2c4094e11d3595c020fd50909a78              855 main/binary-amd64/Packages
+ cd2bf14f994682fe036fdef8b399503c081d1539              568 main/binary-amd64/Packages.gz
+SHA256:
+ 4692cc32f159f6269311357d054b2ad1819455e1d20af0854a71ce49fab20db1              855 main/binary-amd64/Packages
+ b8021723decc900f195a53ecde514f29f384dbe812ccf253dc5a88dc294aa174              568 main/binary-amd64/Packages.gz
+SHA512:
+ b269cceac054be9792f3913a85ff65578af726be5780a10ade37c97d71e12bbe084d70742f92c1d52e5d797b5eae96f10a7a3032709331ea1efc8f49f2947845              855 main/binary-amd64/Packages
+ 7a676f45809d91f727853eec4e9dcae385182e5a877ce895373776e31eba179b9883a91c228132fe2066621ce544dbed74895ea4cd8547275e452a4697ed26a7              568 main/binary-amd64/Packages.gz

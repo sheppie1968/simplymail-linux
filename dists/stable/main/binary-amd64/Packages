@@ -1,0 +1,17 @@
+Package: simplymail
+Architecture: amd64
+Version: 1.0.20
+Priority: optional
+Section: mail
+Maintainer: Mark Shepherd <Unknown>
+Installed-Size: 167318
+Provides: simplymail
+Depends: libasound2t64, libbrotli1, libbsd0, libbz2-1.0, libc6, libexpat1, libfontconfig1, libfreetype6, libgcc-s1, libgl1, libglvnd0, libglx0, libmd0, libpng16-16t64, libstdc++6, libx11-6, libxau6, libxcb1, libxdmcp6, libxext6, libxi6, libxrender1, libxtst6, xdg-utils, zlib1g
+Filename: pool/main/simplymail_1.0.20_amd64.deb
+Size: 74581182
+MD5sum: fee25b61eb096eb5c22c251c1fc163db
+SHA1: 1d613ee843984d1f97049abcd063ac400ea13017
+SHA256: 11585f8a006c1a9031717fe49a7e1756085abda40f6e6a2ce6ee3f7c5fe8063d
+SHA512: b23563ab1b1d46ffeffa19f9c1941dd6adf3cc82f9757a1f4081094c5d91a982c060725436381f630a8335fd6810ed63c5db752b3d53d7365cbe18662083764e
+Description: Email for IMAP and POP3 accounts
+
